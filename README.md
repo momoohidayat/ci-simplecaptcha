@@ -1,4 +1,9 @@
-ci-simplecaptcha
-================
+Codeigniter Simplecaptcha
+=================
 
-Simple captcha for CI
+Simple captcha for Codeigniter
+
+
+**Author:**  
+*Muhammad Nur Hidayat*  
+*http://muhammadnurhidayat.com*
